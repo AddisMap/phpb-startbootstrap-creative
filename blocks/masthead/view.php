@@ -1,5 +1,5 @@
 <!-- Masthead-->
-<header class="masthead">
+<header class="masthead" style="background-image: url('<?= $block->setting('background_img') ?>')">
     <div class="container h-100">
         <div class="row h-100 align-items-center justify-content-center text-center">
             <div class="col-lg-10 align-self-end">

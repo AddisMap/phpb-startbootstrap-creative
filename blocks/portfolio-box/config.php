@@ -5,7 +5,7 @@ return [
     'category' => 'Elements',
     'icon' => 'fa fa-server',
     'settings' => [
-        'href' => [
+        'link_url' => [
             'label' => 'URL',
             'value' => 'https://example.com/'
         ]
